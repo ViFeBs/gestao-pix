@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gestao-pix.props" />
+</Project>
