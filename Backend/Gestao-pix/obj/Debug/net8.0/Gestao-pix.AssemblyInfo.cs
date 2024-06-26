@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestao-pix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b94984335e9b4563e09fb7f91b0c07519cc39b34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7938e019fa66e337934d73f7a1ac50048379fd87")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestao-pix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestao-pix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
